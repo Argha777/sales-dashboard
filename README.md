@@ -1,14 +1,12 @@
 Sales & Customer Dashboard (Tableau)
 
-This project uses Tableau to analyze 2023 sales and customer performance compared to 2022.
+Built two interactive Tableau dashboards to analyze  sales and customer performance vs. previous year. The project highlights:
 
-🔹 Key Highlights
+Sales & Profit Growth: Strong YoY increase in revenue, profit, and order quantity.
 
-Sales, profit, and order quantity show strong YoY growth.
+Product Insights: Some subcategories drive high profit, while others run at a loss.
 
-Some product categories drive high profits, while others operate at a loss.
-
-Customer base is expanding, but most buy only 1–2 times, with a few key customers contributing heavily to profit.
+Customer Insights: Growing customer base, but most are low-frequency buyers; a few key customers contribute heavily to profits.
 
 📂 Project Files
 
